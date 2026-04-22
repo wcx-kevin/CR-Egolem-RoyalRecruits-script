@@ -1,0 +1,13 @@
+battle_records/
+  YYYYMMDD_HHMMSS/
+    logs/
+      meta.json
+      summary.json
+      battle_log.jsonl
+    screenshots/
+      00000_battle_start.png
+      ...
+    crops/
+      00000_battle_start_hand_1.png
+      00000_battle_start_next.png
+      ...
