@@ -1,5 +1,5 @@
-# README.md
-[简体中文](./README.zh-CN.md)
+# README.zh-CN.md
+[English](./README.md)
 
 ## 项目概览
 
