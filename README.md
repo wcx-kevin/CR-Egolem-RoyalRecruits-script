@@ -1,3 +1,5 @@
+[English](./README.md) | [简体中文](./README.zh-CN.md)
+
 ## Project Overview
 
 This is a vision-driven control project for automated battles in *Chinese Mainland version of Clash Royale*, with the goal of completing match recognition, card state tracking, resource tempo management, and automatic card deployment on an Android emulator or Android device.
